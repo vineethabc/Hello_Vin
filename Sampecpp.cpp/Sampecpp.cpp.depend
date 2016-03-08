@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457342253 source:c:\users\vineethabc\documents\codeblocks\sampecpp.cpp\hello.cpp
+	<iostream>
+
+1457342060 source:c:\users\vineethabc\documents\codeblocks\sampecpp.cpp\main.cpp
+	<iostream>
+	"hello.h"
+
+1457342122 c:\users\vineethabc\documents\codeblocks\sampecpp.cpp\hello.h
+
